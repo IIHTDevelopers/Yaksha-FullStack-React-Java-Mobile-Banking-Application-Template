@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`boundary AppTest boundary should mount App without crashing 1`] = `
+Array [
+  <React.Fragment>
+    <UserRegistrationForm />
+  </React.Fragment>,
+]
+`;
