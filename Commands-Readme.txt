@@ -30,7 +30,7 @@ Frontend Commands:
 * You can follow series of command to setup Angular environment once you are in your project-name folder:
 
 	npm install -> Will install all dependencies -> takes 10 to 15 min
-	npm run start -> To compile and deploy the project in browser. -> takes 2 to 3 min
+	npm run start -> To compile and deploy the project in browser. -> takes 2 to 3 min and will run on localhost:8082
         npm run jest -> to run all test cases and see the summary
 	npm run test -> to run all test cases. It is mandatory to run this command before submission of workspace -> takes 5 to 6 min
 * To ensure your code is saved and available for later use, remember to use the CTRL+Shift+B command on your code IDE.
